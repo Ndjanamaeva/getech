@@ -1,0 +1,2 @@
+# Edge functions config
+# Add [functions.<slug>] tables here when deploying new edge functions.
